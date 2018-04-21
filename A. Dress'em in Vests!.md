@@ -44,3 +44,5 @@ VD:
 - Nếu lính thứ i đã thử hết số áo nhưng vẫn chưa tìm ra thì i++
 - Nếu lính thứ i chọn áo phù hợp với điều kiện **ai - x ≤ bj ≤ ai + y** thì lưu vào một mảng a[count] = i++, b[count] = j++, count++
 - In ra các mảng a[count], b[count] và count
+
+Code: [http://codeforces.com/problemset/submission/161/37502567](http://codeforces.com/problemset/submission/161/37502567)
