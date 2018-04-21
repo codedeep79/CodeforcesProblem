@@ -24,5 +24,7 @@ Mô tả cách giải:
 + Cho vòng lặp nhập a1, a2, a3,... phút cần đọc cho mỗi quyển sách
 + Dùng kỹ thuật two pointer cho 2 biến start = 0, finish = 0
 + When (finish < n) then sumFreeTime += a[finish++]
-  + If (sumFreeTime > t) then start++; sumFreeTime -= a[start++]
+  + When (sumFreeTime > t) then start++; sumFreeTime -= a[start++]
   + output = 0, if (output < finish - start) output = finish - start
+  
+  Code: [http://codeforces.com/problemset/submission/279/37502248](http://codeforces.com/problemset/submission/279/37502248)
