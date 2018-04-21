@@ -48,3 +48,4 @@ Output là kết quả của câu trả lời là còn lại bao nhiêu vấn đ
 ```
 3
 ```
+Code: [http://codeforces.com/problemset/submission/387/37501739](http://codeforces.com/problemset/submission/387/37501739)
