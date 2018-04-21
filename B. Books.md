@@ -5,7 +5,7 @@ Khi Valera rãnh, anh ta đi đến thư viện để đọc một số quyển 
 
 Input:
 + Dòng 1: Nhập vào n sách và t phút rãnh để đọc sách (1 ≤ n ≤ 10^5; 1 ≤ t ≤ 10^9)
-+ Dòng 2: Tuần tự n phút: n1, n2, n3,...  mà anh ấy cần để đọc cho mỗi quyển sách. Mỗi quyển sách cần đọc t phút
++ Dòng 2: Tuần tự n phút: n1, n2, n3,...  mà anh ấy cần để đọc cho mỗi quyển sách. Và anh ấy đọc liên tiếp các quyển sách. Mỗi quyển sách cần đọc t phút
 
 Output: Tối đa bao nhiêu sách đọc được trong thời gian t
 
