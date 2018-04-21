@@ -25,4 +25,4 @@ Mô tả cách giải:
 + Dùng kỹ thuật two pointer cho 2 biến start = 0, finish = 0
 + When (finish < n) then sumFreeTime += a[finish++]
   + If (sumFreeTime > t) then start++; sumFreeTime -= a[start++]
-  + output = 0, if (output < finish - start) output += finish - start
+  + output = 0, if (output < finish - start) output = finish - start
