@@ -16,7 +16,7 @@ Output: Tối đa bao nhiêu sách đọc được trong thời gian t
 ```
 ### Output:
 ```
-2
+1
 ```
 
 Mô tả cách giải:
