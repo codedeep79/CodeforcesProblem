@@ -122,3 +122,9 @@ Based | **new** | **malloc()**
 **Deallocation** | delete a; delete[] b | free(c);
 **Reallocation** | Không thay đổi được kích thước phần tử sau khi cấp phát | Thay đổi kích thước phần tử bởi **realloc()**
 **Execution** | new nhanh hơn malloc vì toán tử luôn nhanh hơn hàm | malloc() yêu cầu nhiều thời gian để thực thi
+
+### Copy an array in C/C++
+
+```
+void * memcpy ( void * destination, const void * source, size_t num );
+```
