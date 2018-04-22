@@ -112,13 +112,13 @@ int main ()
 
 Based | **new** | **malloc()**
 ------|---------|-----------
-**Language** |
-**Nature** |
-**sizeof()** |
-**Constructor** |
-**Initialization** |
-**Overloading** |
-**Failure** |
-**Deallocation** |
-**Reallocation** |
-**Execution** |
+**Language** | C++, Java, C# | C
+**Nature** | new là toán tử | malloc() là hàm
+**sizeof()** | không dụng toán tử sizeof() trong new, new cấp đủ vùng nhớ các kiểu đối tượng cụ thể. Kích thước được tính bởi compiler | malloc yêu cầu sizeof() tính toán kích thước của memory. 
+**Constructor** | Cấp phát bộ nhớ và gọi hàm dựng của đối tượng khởi tạo| Không gọi được constructor
+**Initialization** | Có thể khởi tạo đối tượng trong khi cấp phát bộ nhớ cho đối tượng đó | Không khởi tạo bộ nhớ trong malloc
+**Overloading** | Có thể được ghi đè | không thể ghi đè hàm malloc()
+**Failure** | Khi không đủ vùng nhớ hay bị lỗi thì new quăng ra ngoại lệ | Trả về NULL
+**Deallocation** | delete a; delete[] b | free(c);
+**Reallocation** | Không thay đổi được kích thước phần tử sau khi cấp phát | Thay đổi kích thước phần tử bởi **realloc()**
+**Execution** | new nhanh hơn malloc vì toán tử luôn nhanh hơn hàm | malloc() yêu cầu nhiều thời gian để thực thi
