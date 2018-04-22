@@ -108,3 +108,17 @@ int main ()
     return 0;
 }
 ```
+### Sự khác nhau giữa new và malloc
+
+Based | **new** | **malloc()**
+------|---------|-----------
+**Language** |
+**Nature** |
+**sizeof()** |
+**Constructor** |
+**Initialization** |
+**Overloading** |
+**Failure** |
+**Deallocation** |
+**Reallocation** |
+**Execution** |
