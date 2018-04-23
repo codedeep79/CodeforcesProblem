@@ -128,3 +128,19 @@ Based | **new** | **malloc()**
 ```
 void * memcpy ( void * destination, const void * source, size_t num );
 ```
+
+### Allocate memory for 2 pointer:
+
+```
+//allocate the array
+int** arr = new int*[row];
+for(int i = 0; i < row; i++)
+    arr[i] = new int[col];
+
+// use the array
+
+//deallocate the array
+for(int i = 0; i < row; i++)
+    delete[] arr[i];
+delete[] arr;
+```
