@@ -24,6 +24,6 @@ Là một số thực, dung lượng tối đa mà Pasha dùng để pha trà ch
 + Sắp xếp tăng dần
 + Đặt u = a[0], v = a[n - 1] / 2
 + Đặt x = min(u,v) vì chọn dung lượng nhỏ nhất để tìm dung lượng cho nữ và khi áp dụng tính dung lượng tối đa thì không vượt quá dung tích **w**
-+ Tìm dung lượng tối đa cần đổ vào bình có w ml: **min(x * n + 2 * x * u, w)** vì tìm được x dung lượng cần pha cho nữ nên nam bằng 2x. Tổng dung lượng phải <= dượng tích ấm trà **w** nên dùng biểu thức **min(x * n + 2 * x * u, w)** để lấy dung lượng cần pha
++ Tìm dung lượng tối đa cần đổ vào bình có w ml: **min(x * n + 2 * x * n, w)** vì tìm được x dung lượng cần pha cho nữ nên nam bằng 2x. Tổng dung lượng phải <= dượng tích ấm trà **w** nên dùng biểu thức **min(x * n + 2 * x * n, w)** để lấy dung lượng cần pha
 
 ### Code: http://codeforces.com/contest/557/submission/37530804
