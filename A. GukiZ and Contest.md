@@ -25,6 +25,11 @@ Vị trí xếp hạng n sinh viên theo thứ tự như đầu vào.
 ```
 4 1 4 3 1
 ```
+### Describe the idea:
+
++ Duyệt vòng lặp 1 từ i: 0 -> n - 1
++ Duyệt vòng lặp 2 trong vòng lặp 1 từ j = i + 1 -> n - 1
++ Nếu a[i] < a[j] thì ++count, cuối vòng lặp 2 thì in ra vị trí xếp hạng là count + 1
 
 ### Code: http://codeforces.com/contest/551/submission/37533009
 
