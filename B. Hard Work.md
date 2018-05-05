@@ -10,7 +10,7 @@ Bây giờ giáo viên biết rằng Shapur là một cậu bé thiên tài tín
 
 Shapur không giỏi trong việc thực hiện nhiệm vụ mất thời gian. Anh ấy thích kết thúc với nó càng sớm càng tốt và dành thời gian của mình để giải quyết **3-SAT** trong thời gian đa thức. Hơn nữa, giáo viên đã đưa ra một số lời khuyên mà Shapur phải tuân theo. Đây là những gì giáo viên nói:
 
-+ Các chuỗi tôi đã cung cấp cho sinh viên của tôi (bao gồm cả bạn) chỉ chứa chữ thường và chữ cái Ba Tư Mikhi-Script. Những chữ cái này giống với chữ cái Latinh, do đó, để làm cho công việc của bạn khó khăn hơn nhiều, tôi đã chuyển đổi tất cả các chuỗi ban đầu và tất cả các câu trả lời của học sinh sang tiếng Latinh.
++ Các chuỗi cung cấp cho sinh viên của tôi (bao gồm cả bạn) chỉ chứa chữ thường và chữ cái Ba Tư Mikhi-Script. Những chữ cái này giống với chữ cái Latinh, do đó, để làm cho công việc của bạn khó khăn hơn nhiều, tôi đã chuyển đổi tất cả các chuỗi ban đầu và tất cả các câu trả lời của học sinh sang tiếng Latinh.
 
 + Như bảng chữ cái latin có ít ký tự hơn Mikhi-Script, tôi đã thêm ba ký tự kỳ lạ vào câu trả lời, chúng bao gồm " - ", " ; " và " _ ". Những kí tự này là yêu cầu của riêng tôi, gọi chúng là **các ký hiệu**.
 
@@ -18,7 +18,7 @@ Shapur không giỏi trong việc thực hiện nhiệm vụ mất thời gian. 
 
 + Không phải tất cả học sinh đều là thiên tài như bạn. Có thể là họ làm cho những sai lầm trong việc thay đổi với các trường hợp của các kí tự. Ví dụ, họ có thể viết **ALiReZaAmIR** thay vì **AlirezaAmir**. Đừng cầu kỳ và bỏ qua những sai lầm này.
 
-+ **Các ký hiệu** mà tôi đã nói trước đây là không quan trọng. Bạn có thể bỏ qua chúng, vì nhiều sinh viên có tâm trạng để thêm dấu hiệu hoặc quên đi một dấu hiệu. Đừng quan tâm, đặt khó khăn cho các kí hiệu. Vì vậy, một cái gì đó như **Iran ;; -** là giống như **-; IRAN**
++ **Các ký hiệu** mà tôi đã nói trước đây là không quan trọng. Bạn có thể bỏ qua chúng, vì nhiều sinh viên có tâm trạng để thêm dấu hiệu hoặc quên đi một dấu hiệu. Đừng quan tâm, đặt khó khăn cho các kí hiệu, bỏ qua chúng. Vì vậy, một cái gì đó như **Iran ;; -** là giống như **-; IRAN**
 + Bạn chỉ ra cho bất kỳ sinh viên của tôi nếu câu trả lời của mình là đúng hay sai bằng cách viết **"WA"** cho câu trả lời sai hoặc **"ACC"** để có câu trả lời đúng.
 
 + Không có chuỗi nào (chuỗi hoặc câu trả lời) là rỗng.
@@ -27,7 +27,7 @@ Cuối cùng, hãy thực hiện càng sớm càng tốt. Bạn có ít hơn 2 g
 
 ## Input:
 + Đầu tiên, là 3 dòng gồm có các chuỗi. Là các chuỗi khởi tạo. Chúng bao gồm các kí tự hoa và thường của chữ cái Latin và các kí hiệu **("-", ";" and "_")**. Tất cả các chuỗi khởi tạo có chiều dài từ 1 đến 100.
-+ Dòng thứ 4 là **n (0 ≤ n ≤ 1000)**, là số lượng học sinh.
++ Dòng thứ 4 là **n (0 ≤ n ≤ 1000)**, là số lượng sinh viên.
 + N dòng tiếp theo chứa câu trả lời của mỗi học sinh. Nó được đảm bảo rằng câu trả lời đáp ứng những gì giáo viên nói. Mỗi câu trả lời chỉ có **chữ thường và chữ hoa La-tinh thường và ký hiệu (" - ", " ; " và " _ ")**. Độ dài từ 1 đến 600
 ## Output:
 Đối với câu trả lời mỗi học sinh viết trên một dòng khác nhau. In "WA" nếu câu trả lời của anh sai hoặc "ACC" nếu câu trả lời của anh ấy là OK.
