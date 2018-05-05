@@ -29,6 +29,13 @@ eofsf
 ```
 codeforces
 ```
-
-### Code: []()
+### Giải quyết vấn đề:
++ Có x là dòng, y là cột
++ Nhập các phần từ trên x dòng
++ Duyệt vòng lặp i: 0 -> x lồng vòng lặp j: 0 -> y
+  + Tìm phần tử lặp trên cột: Cho vòng lặp k: 0 -> y, nếu trùng thì đánh dấu biến **same = 1** và thoát vòng lặp k, tăng j duyệt tiếp tới < y
+  + Tìm phần tử lặp trên dòng: Cho vòng lặp k: 0 -> x, nếu **same != 1** nghĩa là kí tự không trùng trên cột thì kiểm tra xem có lặp trên dòng không? Nếu trùng thì đánh dấu biến **same = 1** và thoát vòng lặp k, tăng j.
+  + Nếu bây giờ **same != 1** nghĩa là không trùng trên dòng và cột thì ghi xuống kết quả và duyệt tiếp dòng i.
+  
+### Code: [http://codeforces.com/problemset/submission/90/37915982](http://codeforces.com/problemset/submission/90/37915982)
 
