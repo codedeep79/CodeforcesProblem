@@ -79,10 +79,11 @@ WA
 ACC
 ACC
 ```
+### Giải quyết vấn đề:
++ Chuyển tất các kí tự hoa về kí tự thường và loại bỏ các kí tự đặc biệt
++ Sắp xếp tùy ý
 
-
-
-
+Code: [http://codeforces.com/problemset/submission/61/37915596](http://codeforces.com/problemset/submission/61/37915596)
 
 
 
