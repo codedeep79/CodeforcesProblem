@@ -36,7 +36,11 @@ hbnyiyc joll joll thi ann
 ```
 hbnyiyc joll joll un ann
 ```
+### Giải quyết vấn đề:
 
+### Code: 
+
+[http://codeforces.com/contest/499/submission/37917777](http://codeforces.com/contest/499/submission/37917777)
 
 
 
