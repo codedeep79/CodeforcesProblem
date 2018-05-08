@@ -37,6 +37,10 @@ hbnyiyc joll joll thi ann
 hbnyiyc joll joll un ann
 ```
 ### Giải quyết vấn đề:
++ Nhập **n, m** là số từ trong bài giảng của giáo sư mà sinh viên cần note, m là số từ trong mỗi ngôn ngữ cần chọn để note của 1 trong 2 ngôn ngữ
++ Nhập vào **ai** đại diện cho NN 1, **bi** đại diện cho NN 2 theo **m** lần.
++ So sánh **ai** và **bi**, nếu số kí tự của NN nào nhỏ hơn thì lưu lại vào một mảng **_string[ai]**.
++ Đối chiếu trên **n chuỗi**. Nhập vào 1 kí tự theo NN 1 là **s**, xuất ra **_string[s]** liên tiếp **n** lần.
 
 ### Code: 
 
