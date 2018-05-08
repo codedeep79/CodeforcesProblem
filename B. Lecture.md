@@ -4,7 +4,7 @@ Bạn có một ông giáo sư về lý thuyết đồ họa và ông ấy giả
 
 Bạn biết 2 ngôn ngữ, và giáo sư giảng bài học đầu tiên. Các từ trong cả hai ngôn ngữ bao gồm các ký tự thường tiếng Anh, mỗi ngôn ngữ bao gồm một vài từ. Đối với mỗi ngôn ngữ, tất cả các từ đều khác nhau, tức là chúng được viết khác nhau. Hơn nữa, các từ của các ngôn ngữ này có một sự tương ứng một-một, nghĩa là, đối với mỗi từ trong mỗi ngôn ngữ, có tồn tại chính xác một từ trong ngôn ngữ khác có cùng ý nghĩa nghĩa là chúng cùng nghĩa với nhau
 
-Bạn có thể viết ra từng từ mà giáo sư nói bằng ngôn ngữ thứ nhất hoặc ngôn ngữ thứ hai. Tất nhiên, trong bài giảng bạn viết ra từng từ trong ngôn ngữ mà từ đó ngắn hơn. Trong trường hợp độ dài bằng nhau của các từ tương ứng bạn thích ngôn ngữ đầu tiên.
+Bạn có thể viết ra từng từ mà giáo sư nói bằng ngôn ngữ thứ nhất hoặc ngôn ngữ thứ hai. Tất nhiên, trong bài giảng bạn viết ra từng từ trong ngôn ngữ mà từ đó ngắn hơn. Trong trường hợp độ dài bằng nhau của các từ tương ứng bạn nên chọn ngôn ngữ đầu tiên.
 
 Bạn được đưa ra văn bản của bài giảng mà giáo sư sẽ đọc. Tìm hiểu cách bài giảng sẽ được ghi lại trong ghi chú của bạn.
 
