@@ -28,13 +28,13 @@ Xuất chính xác n từ: cách bạn sẽ ghi lại bài giảng trong sổ gh
 ngoc ann
 thi un
 hbnyiyc rsoqqveh
-hbnyiyc joll joll thi ann
+hbnyiyc ngoc ngoc thi hbnyiyc
 ```
 
 ### Output:
 
 ```
-hbnyiyc joll joll un ann
+hbnyiyc ann ann un hbnyiyc
 ```
 ### Giải quyết vấn đề:
 + Nhập **n, m** là số từ trong bài giảng của giáo sư mà sinh viên cần note, m là số từ trong mỗi ngôn ngữ cần chọn để note của 1 trong 2 ngôn ngữ
